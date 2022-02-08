@@ -16,7 +16,7 @@ public:
     }
 
     void suma(int v){
-        v1 = v1 + v;
+        v1 = v1 + 2*v + 3;
     }
 
     void print(void){
